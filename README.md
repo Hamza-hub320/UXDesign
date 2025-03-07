@@ -73,7 +73,7 @@ Accommodations
 How to Use
 
 The website is hosted on GitHub Pages. You can explore it here:
-👉 [Live Demo](https://hamza-hub320.github.io/UXDesign/contact.html)
+👉 https://hamza-hub320.github.io/UXDesign/index.html
 
 Technologies Used
 
